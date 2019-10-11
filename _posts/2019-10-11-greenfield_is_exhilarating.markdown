@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Greenfield is Exhilarating"
-date:       2019-10-11 18:36:24 +0000
+date:       2019-10-11 14:36:25 -0400
 permalink:  greenfield_is_exhilarating
 ---
 
@@ -28,19 +28,19 @@ Some of my things for now, in the beginning stages of my disciplined coding care
 
 Along the way I created and maintained a series of Markdown files to document important things I'd want to reference later. At first it was just utility, but as things went on it was pretty fun. I felt a significant sense of accomplishment as these documents grew, and as I went back and finessed my documentation, because my understanding had improved. 
 
-###`Design.md`
+### `Design.md`
 
 This was where I started the project. I didn't want to accidentally fall into waterfall design and overarchitect, but I wanted to pseudo-code/write out the very basic first method or two. The rest would follow as I coded.
 
 Then I also kept going back and adding to this document along the way, as I had thoughts or explanations worth retaining that were outside of what belonged in inline docs.
 
-###`Notes.md`
+### `Notes.md`
 
 This is where I documented the various tools, gems, etc that I employed along the way, along with links to docs, and motivations.
 
 You can tell how into the code I was at each step; for my first few tools, there are long explanatory paragraphs. For later ones, there are excited one liners about the functionality, and then I just rushed off to implement.
 
-###`Friction.md`
+### `Friction.md`
 
 This was where I noted issues with external tools that I couldn't stop to remedy right then, but would like to one day. Mostly it's ideas for PRs or issues to file with open source projects.
 
