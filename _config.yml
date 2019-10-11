@@ -1,11 +1,11 @@
 # Site settings
 author: Leah Silber
-title: 
+title: Learning All The Things
 header-img: img/home-bg.png
 email: leahsilber@gmail.com
 copyright_name: Leah Silber
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Thoughts along the way
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: wifelette
 github_username:  wifelette
