@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "My Terrible Project Review 😲"
-date:       2019-10-18 00:13:13 +0000
+date:       2019-10-17 20:13:13 -0400
 permalink:  my_terrible_project_review
 ---
 
 
-I’d finished up my CLI project and was, frankly, pretty proud of myself! I’d found a relevant topical domain, learned how to work with the API, and utilized a ton of new gems and tools that resulted in something prettier and more functional than I could’ve imagined. I ticked off all the requirements boxes for passing the assessment, but also added a bunch more stuff just because I started having fun! See: Greenfield is Exhilarating!
+I’d finished up my CLI project and was, frankly, pretty proud of myself! I’d found a relevant topical domain, learned how to work with the API, and utilized a ton of new gems and tools that resulted in something prettier and more functional than I could’ve imagined. I ticked off all the requirements boxes for passing the assessment, but also added a bunch more stuff just because I started having fun! See: [Greenfield is Exhilarating](https://wifelette.github.io/greenfield_is_exhilarating)!
 
 [![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)](https://youtu.be/C1D2AfdVoSo)
 
