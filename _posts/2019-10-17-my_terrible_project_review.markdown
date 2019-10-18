@@ -10,7 +10,7 @@ I’d finished up my CLI project and was, frankly, pretty proud of myself! I’d
 
 [![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)](https://youtu.be/C1D2AfdVoSo)
 
-*My Project Walkthrough: so much CLI!*
+*My Project Walkthrough: so much CLI! It doesn't look like it (limited formatting here) but that image is a link to my Project Walkthrough video, if you feel so inclined.*
 
 
 I came to my review slightly nervous, but excited to show off what I’d been working on. Previously, I’d submitted a blog post on my work, the GitHub repo URL, and a video of me walking through the gem. I had a solid big picture of what my gem did, as well as of *how* it did, and a ton of inline docs to help me over the parts I was worried I’d forget.
