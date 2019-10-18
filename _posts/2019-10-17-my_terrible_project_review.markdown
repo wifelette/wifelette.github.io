@@ -51,7 +51,7 @@ Thor led to some of the things she said that were the most upsetting:
 
 I was chastised for having used a tool that resulted in what my assessor herself called “probably the most complex CLI project I’ve seen in a long time” (in a good way), and that “looked way better than the other projects I’ve seen” and “does so much more than any of the other projects”… because she herself couldn’t grasp how one of my *dependencies* was implemented.
 
-I want to stop here and focus on one seemingly throwaway thing she said” that my code was “a mess”.
+I want to stop here and focus on one seemingly throwaway thing she said: that my code was “a mess”.
 
 First, a plea. Please literally ***never*** say this to any new student. Maybe it’s not that big a deal, but to me it effectively undermined just about all my work—even though the work itself *worked*! And it worked well! We’re talking custom error classes, multiple forks to take, a handy wizard, the whole shebang! (I’ll come back to the shebang later too…)
 
