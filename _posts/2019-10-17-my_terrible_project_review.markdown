@@ -122,3 +122,23 @@ Maybe my reviewer was having a bad day. Maybe their life is really stressful rig
 - Try not to be distracted. Yes, life happens, but for important assessments, the person you’re evaluating should be the primary and solitary thing you’re focusing on. Being distracted sows doubt, and instead of reinforcing your student so they do better, you’re panicking them about why they can’t keep you focused.
 - Your student is an adult. This isn’t grade school. Yes, in this case you’re in a position of power, but that’s incidental. When the eval is over, most of us are parents, bosses, nurses, whatever, and we’re just trying to claw our way to a better spot in the world! It’s not important to establish the power dynamic with you as the person “in charge”. You *are* in charge, that’s enough. There’s zero value in interacting with a newbie in a way that *reminds* them they’re a newbie at every step of the way. They may know more than *you*, in certain areas, and that’s a possibility you ought embrace, not a challenge you ought stymie. Best to ask *why* they did something the way they did it, rather than chastise them for taking some path other than the precise one you’d have chosen.
 - And lastly, be empathetic. If your interaction *comes* from an empathetic place, you’ll likely get all the *previous* things on the list right. Put yourself in our shoes, remember the anxieties you felt when you were in our spot: making someone feel at ease is the least you can do, and will result in better outcomes for the students, and more enjoyable interactions for you.
+
+---
+
+For reference, as a final thought, this is the feedback / review I received after my session:
+```
+TTY gem create table, color + nice user interface
+
+deesn't know sheebang, or really know where her code goes
+doesn't really understand the diff btw require & require relative
+
+confusion on ID'n self when involking fn
+
+very bright
+
+live code showing the user list of name of the users they've searched for & added into the app
+
+blog about diff btw require & require relative, w/snippet about shebang line
+```
+
+Well. At least I'm bright 🙄
