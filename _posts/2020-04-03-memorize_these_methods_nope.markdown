@@ -9,7 +9,7 @@ permalink:  memorize_these_methods_nope
 There are a couple of places in the curriculum where the prose explicitly instructs students to memorize certain concepts, methods, functions, etc. I'm here to say the same thing I said when my ninth grade teacher told us that the best way to be decent human beings was to memorize a whole bunch of prayers: Nope. But also Nope, Nope and ***Nope***.
 
 
-[![Nope!](https://giphy.com/embed/yMaLDA976YtUs))]
+![Nope!](https://giphy.com/embed/yMaLDA976YtUs)
 
 Lots of times in life educators reach for memorization. They tell us it's the way to be useful, it's the way to remember, and that it's core to whatever topic we're trying to master. But again, typically, not so much.
 
@@ -20,6 +20,8 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 (And if you're thinking, "but interviews!", a reasonable interview should be asking you about concepts, ideas, implementations, etc., but very much *not* to whiteboard-repeat some built-in function. It's *far* more relevant for them to test your Googling skills than your memorization skills.)
 
 [![I *could* spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png?dl=0)]
+
+[![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)]
 
 In coding, it seems far more useful to develop instincts about what sort of methods are useful in which cases, than to memorize literally *anything*. For one thing, best practices are constantly changing. For another, you can always just look it up. And like all things, the more you do it, the more you'll remember it, and pretty soon you'll have memorized it without noticing it, and certainly without going back to grade-school study habits.
 
