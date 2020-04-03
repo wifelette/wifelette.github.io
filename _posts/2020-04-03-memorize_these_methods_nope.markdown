@@ -19,7 +19,7 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 
 (And if you're thinking, "but interviews!", a reasonable interview should be asking you about concepts, ideas, implementations, etc., but very much *not* to whiteboard-repeat some built-in function. It's *far* more relevant for them to test your Googling skills than your memorization skills.)
 
-[![I could spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png?dl=0)]
+![I could spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png)
 
 ![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)
 
