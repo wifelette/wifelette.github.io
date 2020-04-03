@@ -9,7 +9,7 @@ permalink:  memorize_these_methods_nope
 There are a couple of places in the curriculum where the prose explicitly instructs students to memorize certain concepts, methods, functions, etc. I'm here to say the same thing I said when my ninth grade teacher told us that the best way to be decent human beings was to memorize a whole bunch of prayers: Nope. But also Nope, Nope and ***Nope***.
 
 
-![Nope!](https://giphy.com/embed/yMaLDA976YtUs)
+![Nope!](https://media1.giphy.com/media/yMaLDA976YtUs/giphy.webp)
 
 Lots of times in life educators reach for memorization. They tell us it's the way to be useful, it's the way to remember, and that it's core to whatever topic we're trying to master. But again, typically, not so much.
 
