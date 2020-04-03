@@ -21,7 +21,7 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 
 [![I could spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png?dl=0)]
 
-[![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)]
+![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)
 
 In coding, it seems far more useful to develop instincts about what sort of methods are useful in which cases, than to memorize literally *anything*. For one thing, best practices are constantly changing. For another, you can always just look it up. And like all things, the more you do it, the more you'll remember it, and pretty soon you'll have memorized it without noticing it, and certainly without going back to grade-school study habits.
 
