@@ -19,7 +19,7 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 
 (And if you're thinking, "but interviews!", a reasonable interview should be asking you about concepts, ideas, implementations, etc., but very much *not* to whiteboard-repeat some built-in function. It's *far* more relevant for them to test your Googling skills than your memorization skills.)
 
-![I could spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png)
+![I *could* spend hours memorizing this, but why in the ever loving universe would I bother?](https://previews.dropbox.com/p/thumb/AAwHoOak-z11zF92FmM1ieKY6gnov9XCurh08EqXjvwYMQI5_OUavgpPMhBn_s6Ue_Uck5sWs8_fMkTqfaWjgRAgFtOiTTBvUK-rKYg3Akjc0J3scBN53sCXWkCoQGD557ThlZpas-aNLPzQ6wsDDq2ezH61HqYrR0uqd103oWooQx7a4vIJz49UXxWGM5FXFet1moss2sQtJVOW3QZtdHFO80qCM5TV8jRKvZu2eQY214gdnosSd0RS0q_jYUao63wSyHBT_eZXG4-LOtZJSsq1xSL-v3eVD1CaMJmIXaMtzWwSS2DTZVVVYmgIB-dAbhnlvJNXRvjLb67QynHA_yCTSVkCoreNV9G8LNfQ_b3quLmUS3LArt6S6t7zrNejjZAKR8nOuDwmY_u5ARIn4d5FRFc_krQ-ft84P4-MW2T_cA/p.png?fv_content=true&size_mode=5)
 
 ![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)
 
