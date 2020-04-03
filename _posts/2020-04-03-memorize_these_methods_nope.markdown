@@ -21,6 +21,8 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 
 ![I *could* spend hours memorizing this, but why in the ever loving universe would I *bother*?](https://p37.f2.n0.cdn.getcloudapp.com/items/NQuZ6PwK/Nope.png?v=bf06579ad3c74aed4ad4849304b2f3e6)
 
+> One such snippet ^. I *could* spend hours memorizing this, but why in the ever loving universe would I *bother*?
+
 In coding, it seems far more useful to develop instincts about what sort of methods are useful in which cases, than to memorize literally *anything*. For one thing, best practices are constantly changing. For another, you can always just look it up. And like all things, the more you do it, the more you'll remember it, and pretty soon you'll have memorized it without noticing it, and certainly without going back to grade-school study habits.
 
 I'm sure sections like these are well intentioned, but when I read them, I just see "you're going to use these a lot, consider bookmarking some of the docs that best help you understand them." 
