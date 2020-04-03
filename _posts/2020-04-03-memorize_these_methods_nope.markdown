@@ -21,8 +21,6 @@ There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-
 
 ![I *could* spend hours memorizing this, but why in the ever loving universe would I bother?](https://previews.dropbox.com/p/thumb/AAwHoOak-z11zF92FmM1ieKY6gnov9XCurh08EqXjvwYMQI5_OUavgpPMhBn_s6Ue_Uck5sWs8_fMkTqfaWjgRAgFtOiTTBvUK-rKYg3Akjc0J3scBN53sCXWkCoQGD557ThlZpas-aNLPzQ6wsDDq2ezH61HqYrR0uqd103oWooQx7a4vIJz49UXxWGM5FXFet1moss2sQtJVOW3QZtdHFO80qCM5TV8jRKvZu2eQY214gdnosSd0RS0q_jYUao63wSyHBT_eZXG4-LOtZJSsq1xSL-v3eVD1CaMJmIXaMtzWwSS2DTZVVVYmgIB-dAbhnlvJNXRvjLb67QynHA_yCTSVkCoreNV9G8LNfQ_b3quLmUS3LArt6S6t7zrNejjZAKR8nOuDwmY_u5ARIn4d5FRFc_krQ-ft84P4-MW2T_cA/p.png?fv_content=true&size_mode=5)
 
-![My simple Project Walkthrough](https://i.ytimg.com/vi/C1D2AfdVoSo/hqdefault.jpg?)
-
 In coding, it seems far more useful to develop instincts about what sort of methods are useful in which cases, than to memorize literally *anything*. For one thing, best practices are constantly changing. For another, you can always just look it up. And like all things, the more you do it, the more you'll remember it, and pretty soon you'll have memorized it without noticing it, and certainly without going back to grade-school study habits.
 
 I'm sure sections like these are well intentioned, but when I read them, I just see "you're going to use these a lot, consider bookmarking some of the docs that best help you understand them." 
