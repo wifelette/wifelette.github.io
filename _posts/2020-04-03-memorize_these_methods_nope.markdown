@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Memorize These Methods: NOPE!"
-date:       2020-04-03 18:06:34 +0000
+date:       2020-04-03 14:06:35 -0400
 permalink:  memorize_these_methods_nope
 ---
 
@@ -14,7 +14,7 @@ There are *very* limited uses for memorizing things like that. If a thing is wor
 
 There are obvious exceptions. I'd imagine doctors need to memorize lots of drug-related dosage info and interactions. In the midst of a life-saving proceedure, there might not be *time* to look it up. But in coding, there's nothing you can't just read the docs for when you need it. 
 
-(And if you're thinking, "but interviews!", a reasonable interview should be asking you about concepts, ideas, implementations, etc., but very much *not* to whiteboard-repeat some build-in function. It's *far* more relevant for them to test your Googling skills than your memorization skills.)
+(And if you're thinking, "but interviews!", a reasonable interview should be asking you about concepts, ideas, implementations, etc., but very much *not* to whiteboard-repeat some built-in function. It's *far* more relevant for them to test your Googling skills than your memorization skills.)
 
 ![I *could* spend hours memorizing this, but why in the ever loving universe would I bother?](https://www.dropbox.com/s/8qq4p5mu9gi0tai/Nope.png?dl=0)
 
