@@ -8,6 +8,8 @@ permalink:  memorize_these_methods_nope
 
 There are a couple of places in the curriculum where the prose explicitly instructs students to memorize certain concepts, methods, functions, etc. I'm here to say the same thing I said when my ninth grade teacher told us that the best way to be decent human beings was to memorize a whole bunch of prayers: Nope. But also Nope, Nope and ***Nope***.
 
+![Nope!](https://giphy.com/embed/yMaLDA976YtUs)
+
 Lots of times in life educators reach for memorization. They tell us it's the way to be useful, it's the way to remember, and that it's core to whatever topic we're trying to master. But again, typically, not so much.
 
 There are *very* limited uses for memorizing things like that. If a thing is worth knowing, and will come up, you'll be able to build muscle memory by constantly needing it. And yes, for the first dozen or so times, you'll need to look it up. But that seems *far* superior to me than spending hours upon hours drilling something into your brain.
