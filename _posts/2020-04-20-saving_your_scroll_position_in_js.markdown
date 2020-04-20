@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Saving Your Scroll Position in JS"
+title:      "Restoring Scroll Position in JS"
 date:       2020-04-20 16:24:10 -0400
 permalink:  saving_your_scroll_position_in_js
 ---
