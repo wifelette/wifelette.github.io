@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "Flatiron has so many problems..."
-date:       2020-06-21 23:12:03 +0000
+date:       2020-06-21 19:12:04 -0400
 permalink:  flatiron_has_so_many_problems
 ---
 
-...and it has **not** prepared you for a real job
+...and it has **not** prepared you for a real job.
 
 Dramatic, right? Glad I have your attention!
 
