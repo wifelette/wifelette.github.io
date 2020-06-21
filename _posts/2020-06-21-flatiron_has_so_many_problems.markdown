@@ -58,7 +58,7 @@ Some students have had good experiences. Some instructors seem pretty decent, so
  
 You shouldn't have to *luck out* to have a great experience when you're paying $15,000 in tuition. You shouldn't have to rely on free online resources to make sense of the gobbledygook. You shouldn't have to beg for every ounce of empathy you can get from a cold administration that seems entirely ivory-tower disconnected from their student body.
 
-I *know* Flatiron didn't start out like this. I *know* this wasn't Avi's dream, and that the quality of the education in those first few years was solid. I don't know if this is just the natural order of things as company's grow (dear god I hope not) or if it's related to the selling of the souls to WeWork. But either way, it's a shitshow that has all the building blocks to *not* be one, and leadership doesn't even *know* enough to be embarrassed about it, because they don't seem to ask. I don't know if other bootcamps are better, but dear world I hope *some* of them are.
+I *know* Flatiron didn't start out like this. I *know* this wasn't Avi's dream, and that the quality of the education in those first few years was solid. I don't know if this is just the natural order of things as companies grow (dear god I hope not) or if it's related to the selling of the souls to WeWork. But either way, it's a shitshow that has all the building blocks to *not* be one, and leadership doesn't even *know* enough to be embarrassed about it, because they don't seem to ask. I don't know if other bootcamps are better, but dear world I hope *some* of them are.
 
 So long, and thanks for all the classmates. As for the rest of it, what a giant, expensive, disappointment.
 
