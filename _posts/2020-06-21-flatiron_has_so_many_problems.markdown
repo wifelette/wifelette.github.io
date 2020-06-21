@@ -64,7 +64,7 @@ So long, and thanks for all the classmates. As for the rest of it, what a giant,
 
 PS: As a totally random aside, student friends, Flatiron has their privacy set up so *they can read all your Slack DMs*. Every Admin—and it seems like they make most faculty Owners or Admins—can, without reason or notice, read any DMs they wish. It's potentially illegal or at least unethical, but on the bright side, I doubt there's enough competency there for them to have every actually bothered, beyond one or two intentional bad actors. Point being, if you're trash talking, big brother probably already knows about it. HIDE!
 
-![Slack](https://share.getcloudapp.com/9Zuj8e91)
+![Slack](https://share.getcloudapp.com/9Zuj8e91?embed=true)
  
 
 
